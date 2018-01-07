@@ -13,3 +13,4 @@
 /tmp
 /.env
 config/secrets.yml
+echo /vendor/assets/bower_components >> .gitignore/vendor/assets/bower_components
