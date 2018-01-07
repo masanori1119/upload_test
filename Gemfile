@@ -62,5 +62,7 @@ gem 'fog'
 gem 'dotenv-rails'
 gem "devise"
 
+gem 'bower-rails',    '0.11.0'
+gem 'font-awesome-rails'
 
 

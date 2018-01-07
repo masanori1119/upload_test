@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   resources :items
 
 namespace :admin do
+  get '/' => 'base#index'
   resources :base
 end
 
